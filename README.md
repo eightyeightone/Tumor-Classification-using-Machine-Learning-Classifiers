@@ -17,11 +17,11 @@ The works was separated into two steps;
 1.	*Pre-processing the data*. Prepossessed data set to remove any anomalies and convert to NumPy arrays. Separate patient diagnosis and patient test results into response and feature variables, respectively.
 
 2.	*Building the classifiers*. Each classifier follows the below pseudo-code with the appropriate libraries and functions used.
-a.	Initialise the classifier from the sklearn library,
-b.	Execute the grid search for hyperparameter optimization,
-c.	Fit the data to the estimator,
-d.	Re-train the estimator using the optimized parameter,
-e.	Re-fit the data to the estimator.
+  1.1.	Initialise the classifier from the sklearn library,
+  1.2.	Execute the grid search for hyperparameter optimization,
+  1.3.	Fit the data to the estimator,
+  1.4.	Re-train the estimator using the optimized parameter,
+  1.5.	Re-fit the data to the estimator.
 
 
 
