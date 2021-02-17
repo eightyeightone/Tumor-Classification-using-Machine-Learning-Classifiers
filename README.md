@@ -1,6 +1,8 @@
 ## Tumor Classification using Machine Learning Classifiers
 ###### Queensland University of Technology Project: CAB320 Artificial Intelligence, completed in Semester 1 of 2020 (Feb' - June).
 
+#### Summary
+
 The aim of this project was to build four different types of classifiers and present their performance in a report. The classification task was to predict whether a tumour would be malignant or benign, denoted by M and B, respectively. 
 
 Types of classifiers and pre-selected hyperparameter;
